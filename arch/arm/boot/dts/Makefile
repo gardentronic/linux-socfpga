@@ -699,6 +699,7 @@ dtb-$(CONFIG_ARCH_SOCFPGA) += \
 	socfpga_arria10_a10s_hdmi.dtb \
 	socfpga_arria10_swvp.dtb \
 	socfpga_cyclone5_mcvevk.dtb \
+	socfpga_cyclone5_de10_nano.dtb \
 	socfpga_cyclone5_socdk.dtb \
 	socfpga_cyclone5_de0_sockit.dtb \
 	socfpga_cyclone5_sockit.dtb \
